@@ -1,11 +1,13 @@
-<-> Use <-> to signify a comment <~>
-<-> Use <G> to signify a global version that should be added to the Version Store <~>
-<-> Use <V> to signify a version used to validate a local version type <~>
-<-> Use <L> to signify a local version that will be saved to the client's disk <~>
-<-> Use <BMA> to singify that the program should not run if the version does not match the major- build of the version <~>
-<-> Use <BMI> to singify that the program should not run if the version does not match the minor- build of the version <~>
-<-> Use <BRU> to singify that the program should not run if the version does not match the run build of the version <~>
-<-> Use #|# to specify a meta version <~>
-<-> Use <~> to signal the end of the line <~>
+<-> Use <-> to signify a comment <.>
+<-> Use <G> to signify a global version that should be added to the Version Store <.>
+<-> Use <V> to signify a version used to validate a local version type <.>
+<-> Use <L> to signify a local version that will be saved to the client's disk <.>
+<-> Use <BM> to singify that the program should not run if the version does not match the major- build of the version <.>
+<-> Use <Bm> to singify that the program should not run if the version does not match the minor- build of the version <.>
+<-> Use <BR> to singify that the program should not run if the version does not match the run build of the version <.>
+<-> Use #|# to specify a meta version <.>
+<-> Use <.>
+<-> To signal the end of the line <.>
 
-<-> Usage: <G><V><BMA> ExampleVersion = 5.12.75 | 2.5.1 <~>
+<-> Usage: <G><V><BM> ExampleVersion = 5.12.75 | 2.5.1 <.>
+<~>
